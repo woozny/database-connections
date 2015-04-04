@@ -18,6 +18,7 @@ public class ImieNazwiskoAdres {
 			}
 		} catch (SQLException e){
 			e.printStackTrace();
+
 		}
 	}
 }
